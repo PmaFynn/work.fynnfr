@@ -68,8 +68,6 @@ params:
     imageHeight: 220
     imageTitle: me
     buttons:
-      - name: Misc
-        url: misc
       - name: Projects
         url: projects
       - name: About me
