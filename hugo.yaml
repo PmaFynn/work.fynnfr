@@ -17,7 +17,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Fynn's slight more professional webpage
+  title: Fynn's slightly more professional webpage
   description: "Fynn's Webpage"
   keywords: [Portfolio, PaperMod]
   author: Me
@@ -70,8 +70,8 @@ params:
     buttons:
       - name: Misc
         url: misc
-      - name: Media
-        url: media
+      - name: Projects
+        url: projects
       - name: About me
         url: info
 
@@ -114,18 +114,14 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: misc
-      name: Misc
-      url: /misc/
-      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30
     - identifier: info
       name: About me
       url: /info/
       weight: 35
-    - identifier: media
-      name: Media
-      url: /media/
-      weight: 30
     # - identifier: search
     #   name: Search
     #   url: /search
