@@ -61,8 +61,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Fynn's Webpage
-    subtitle: "Introduction"
+    title: Fynn's slight more professional webpage
+    subtitle: "idk yet, maybe some kind of portfolio"
     imageUrl: "home/me.png"
     imageWidth: 220
     imageHeight: 220

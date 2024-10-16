@@ -1,18 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Fynn&#39;s Webpage</title>
+    <title>Tags on Fynn</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Fynn&#39;s Webpage</description>
+    <description>Recent content in Tags on Fynn</description>
     <image>
-      <title>Fynn&#39;s Webpage</title>
+      <title>Fynn</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.134.3</generator>
+    <generator>Hugo -- 0.136.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2024 18:02:22 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 18:37:34 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jack Nicholson</title>
+      <link>http://localhost:1313/tags/jack-nicholson/</link>
+      <pubDate>Wed, 16 Oct 2024 18:37:34 +0200</pubDate>
+      <guid>http://localhost:1313/tags/jack-nicholson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Milos Forman</title>
+      <link>http://localhost:1313/tags/milos-forman/</link>
+      <pubDate>Wed, 16 Oct 2024 18:37:34 +0200</pubDate>
+      <guid>http://localhost:1313/tags/milos-forman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Movie</title>
+      <link>http://localhost:1313/tags/movie/</link>
+      <pubDate>Wed, 16 Oct 2024 18:37:34 +0200</pubDate>
+      <guid>http://localhost:1313/tags/movie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Danny Boyle</title>
+      <link>http://localhost:1313/tags/danny-boyle/</link>
+      <pubDate>Mon, 14 Oct 2024 18:32:09 +0200</pubDate>
+      <guid>http://localhost:1313/tags/danny-boyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ewan McGregor</title>
+      <link>http://localhost:1313/tags/ewan-mcgregor/</link>
+      <pubDate>Mon, 14 Oct 2024 18:32:09 +0200</pubDate>
+      <guid>http://localhost:1313/tags/ewan-mcgregor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Book</title>
+      <link>http://localhost:1313/tags/book/</link>
+      <pubDate>Sun, 13 Oct 2024 14:30:09 +0200</pubDate>
+      <guid>http://localhost:1313/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gabriel García Márquez</title>
+      <link>http://localhost:1313/tags/gabriel-garc%C3%ADa-m%C3%A1rquez/</link>
+      <pubDate>Sun, 13 Oct 2024 14:30:09 +0200</pubDate>
+      <guid>http://localhost:1313/tags/gabriel-garc%C3%ADa-m%C3%A1rquez/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Novel</title>
+      <link>http://localhost:1313/tags/novel/</link>
+      <pubDate>Sun, 13 Oct 2024 14:30:09 +0200</pubDate>
+      <guid>http://localhost:1313/tags/novel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Patrick Magee</title>
+      <link>http://localhost:1313/tags/patrick-magee/</link>
+      <pubDate>Sun, 13 Oct 2024 14:29:09 +0200</pubDate>
+      <guid>http://localhost:1313/tags/patrick-magee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stanley Kubrick</title>
+      <link>http://localhost:1313/tags/stanley-kubrick/</link>
+      <pubDate>Sun, 13 Oct 2024 14:29:09 +0200</pubDate>
+      <guid>http://localhost:1313/tags/stanley-kubrick/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>F. Murray Abraham</title>
+      <link>http://localhost:1313/tags/f.-murray-abraham/</link>
+      <pubDate>Sun, 13 Oct 2024 14:28:59 +0200</pubDate>
+      <guid>http://localhost:1313/tags/f.-murray-abraham/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tom Hulce</title>
+      <link>http://localhost:1313/tags/tom-hulce/</link>
+      <pubDate>Sun, 13 Oct 2024 14:28:59 +0200</pubDate>
+      <guid>http://localhost:1313/tags/tom-hulce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sally Rooney</title>
+      <link>http://localhost:1313/tags/sally-rooney/</link>
+      <pubDate>Thu, 03 Oct 2024 14:30:51 +0200</pubDate>
+      <guid>http://localhost:1313/tags/sally-rooney/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peak</title>
+      <link>http://localhost:1313/tags/peak/</link>
+      <pubDate>Mon, 30 Sep 2024 14:30:37 +0200</pubDate>
+      <guid>http://localhost:1313/tags/peak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Susanna Clarke</title>
+      <link>http://localhost:1313/tags/susanna-clarke/</link>
+      <pubDate>Mon, 30 Sep 2024 14:30:37 +0200</pubDate>
+      <guid>http://localhost:1313/tags/susanna-clarke/</guid>
+      <description></description>
+    </item>
     <item>
       <title>George C. Scott</title>
       <link>http://localhost:1313/tags/george-c.-scott/</link>
@@ -21,24 +126,10 @@
       <description></description>
     </item>
     <item>
-      <title>Movie</title>
-      <link>http://localhost:1313/tags/movie/</link>
-      <pubDate>Mon, 23 Sep 2024 18:02:22 +0200</pubDate>
-      <guid>http://localhost:1313/tags/movie/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Peter Sellers</title>
       <link>http://localhost:1313/tags/peter-sellers/</link>
       <pubDate>Mon, 23 Sep 2024 18:02:22 +0200</pubDate>
       <guid>http://localhost:1313/tags/peter-sellers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stanley Kubrick</title>
-      <link>http://localhost:1313/tags/stanley-kubrick/</link>
-      <pubDate>Mon, 23 Sep 2024 18:02:22 +0200</pubDate>
-      <guid>http://localhost:1313/tags/stanley-kubrick/</guid>
       <description></description>
     </item>
     <item>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Danny Boyle on Fynn</title>
+    <link>http://localhost:1313/tags/danny-boyle/</link>
+    <description>Recent content in Danny Boyle on Fynn</description>
+    <image>
+      <title>Fynn</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2024 18:32:09 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/danny-boyle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trainspotting</title>
+      <link>http://localhost:1313/media/trainspotting/</link>
+      <pubDate>Mon, 14 Oct 2024 18:32:09 +0200</pubDate>
+      <guid>http://localhost:1313/media/trainspotting/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;We took morphine, diamorphine, cyclizine, codeine, temazepam, nitrazepam, phenobarbitone, sodium amytal, dextropropoxyphene, methadone, nalbuphine, pethidine, pentazocine, buprenorphine, dextromoramide, chlormethiazole. The streets are awash with drugs you can have for unhappiness and pain, and we took them all. Fuck it, we would have injected vitamin C if only they&amp;rsquo;d made it illegal.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.imdb.com/title/tt0117951/&#34;&gt;IMDb&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

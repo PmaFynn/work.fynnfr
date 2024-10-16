@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Milos Forman on Fynn</title>
+    <link>http://localhost:1313/tags/milos-forman/</link>
+    <description>Recent content in Milos Forman on Fynn</description>
+    <image>
+      <title>Fynn</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Oct 2024 18:37:34 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/milos-forman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OneFlewOverTheCuckoosNest</title>
+      <link>http://localhost:1313/media/oneflewoverthecuckoosnest/</link>
+      <pubDate>Wed, 16 Oct 2024 18:37:34 +0200</pubDate>
+      <guid>http://localhost:1313/media/oneflewoverthecuckoosnest/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I feel big as a damn mountain.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.imdb.com/title/tt0073486&#34;&gt;IMDb&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amadeus</title>
+      <link>http://localhost:1313/media/amadeus/</link>
+      <pubDate>Sun, 13 Oct 2024 14:28:59 +0200</pubDate>
+      <guid>http://localhost:1313/media/amadeus/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The only thing that worried me was the actual killing. How does one do that? Hmmm? How does one kill a man? It&amp;rsquo;s one thing to dream about it; very different when, when you, when you have to do it with your own hands.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.imdb.com/title/tt0086879&#34;&gt;IMDb&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
