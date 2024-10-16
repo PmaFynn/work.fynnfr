@@ -37,6 +37,7 @@ UseHugoToc: true
 <!--![Build Status](https://img.shields.io/github/workflow/status/yourusername/yourprojectname/CI)-->
 <!-- ![License](https://img.shields.io/github/license/yourusername/yourprojectname)-->
 <!--![Version](https://img.shields.io/github/v/release/yourusername/yourprojectname)-->
+![Showcase](/static/projects/tdShowcase.gif)
 
 A simple, fast, and efficient TUI todo application written in Rust with *vim bindings*.
 
