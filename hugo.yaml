@@ -19,7 +19,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Fynn's slight more professional webpage
   description: "Fynn's Webpage"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -63,7 +63,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Fynn's slight more professional webpage
     subtitle: "idk yet, maybe some kind of portfolio"
-    imageUrl: "home/me.png"
+    imageUrl: "home/meButNice.png"
     imageWidth: 220
     imageHeight: 220
     imageTitle: me
@@ -72,8 +72,8 @@ params:
         url: misc
       - name: Media
         url: media
-      - name: Library
-        url: library
+      - name: About me
+        url: info
 
   socialIcons:
     - name: email
@@ -118,12 +118,12 @@ menu:
       name: Misc
       url: /misc/
       weight: 10
-    - identifier: library
-      name: Library
-      url: /library/
+    - identifier: info
+      name: About me
+      url: /info/
       weight: 35
     - identifier: media
-      name: Media consumed
+      name: Media
       url: /media/
       weight: 30
     # - identifier: search
