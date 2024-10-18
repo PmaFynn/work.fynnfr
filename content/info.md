@@ -1,5 +1,5 @@
 ---
-title: "Technical stuff I like/use"
+title: "About me"
 date: 2024-09-19T14:29:39+02:00
 weight: 1
 # aliases: ["/first"]
@@ -31,6 +31,8 @@ UseHugoToc: true
 #     relative: false # when using page bundles set this to true
 #     hidden: true # only hide on current single page
 ---
+
+lorem ipsum
 
 ## Software
 
@@ -98,17 +100,6 @@ GNU/Linux with [Arch Linux](https://archlinux.org/)
 Note that these packages are in no particular order and offer no claim to completeness
 
 alacritty bat khal rclone oath-toolkit ytfzf yt-dlp mpv zip unzip fastfetch feh firefox htop pass pavucontrol picom stow fdupes i3 dmenu wget yazi git xdotool xclip zsh neovim fd fzf tmux ripgrep jq zathura mandoc interception-caps2esc entr
-
-## Websites
-
-- <https://wtfhappenedin1971.com/>
-- **<https://fmhy.net/>** (includes all of the following)
-  - <https://www.braflix.ru/>
-  - <https://annas-archive.org/>
-  - <https://bookshelf.theanarchistlibrary.org/special/index>
-  - <https://www.massline.org/Dictionary/>
-  - <https://www.marxists.org/>
-  - <https://wikipedia.org/>
 
 ## Generalities
 
