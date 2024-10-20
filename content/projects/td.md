@@ -25,6 +25,8 @@ ShowPostNavLinks: false
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+cover: 
+    image: "projects/tdScreen.png"
 # cover:
 #     image: "/home/fynn/projects/hugo/fynnfr/static/movies/dontLikeCover.png" # image path/url
 #     # alt: "<alt text>" # alt text
