@@ -54,7 +54,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Fynn Friedrichs"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -62,7 +62,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Fynn's slightly more professional webpage
-    subtitle: "idk yet, maybe some kind of portfolio"
+    subtitle: "idk yet, maybe some kind of portfolio. Work in progress tho \n do line breaks work here?"
     imageUrl: "home/meButNice.png"
     imageWidth: 220
     imageHeight: 220
@@ -70,6 +70,8 @@ params:
     buttons:
       - name: Projects
         url: projects
+      - name: CV
+        url: CV
       - name: About me
         url: info
 
@@ -121,7 +123,7 @@ menu:
       url: /info/
       weight: 35
     - identifier: cv
-      name: cv
+      name: CV
       url: /cv/
       weight: 34
     # - identifier: search

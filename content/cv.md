@@ -1,5 +1,5 @@
 ---
-title: 'Cv'
+title: 'CV'
 date: 2024-10-16T23:47:41+02:00
 weight: 1
 tags: ['cv']
