@@ -120,6 +120,10 @@ menu:
       name: About me
       url: /info/
       weight: 35
+    - identifier: cv
+      name: cv
+      url: /cv/
+      weight: 36
     # - identifier: search
     #   name: Search
     #   url: /search
