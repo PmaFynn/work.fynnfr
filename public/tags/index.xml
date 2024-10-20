@@ -9,148 +9,43 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.136.0</generator>
+    <generator>Hugo -- 0.136.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2024 18:37:34 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 23:47:41 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jack Nicholson</title>
-      <link>http://localhost:1313/tags/jack-nicholson/</link>
-      <pubDate>Wed, 16 Oct 2024 18:37:34 +0200</pubDate>
-      <guid>http://localhost:1313/tags/jack-nicholson/</guid>
+      <title>Cv</title>
+      <link>http://localhost:1313/tags/cv/</link>
+      <pubDate>Wed, 16 Oct 2024 23:47:41 +0200</pubDate>
+      <guid>http://localhost:1313/tags/cv/</guid>
       <description></description>
     </item>
     <item>
-      <title>Milos Forman</title>
-      <link>http://localhost:1313/tags/milos-forman/</link>
-      <pubDate>Wed, 16 Oct 2024 18:37:34 +0200</pubDate>
-      <guid>http://localhost:1313/tags/milos-forman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Movie</title>
-      <link>http://localhost:1313/tags/movie/</link>
-      <pubDate>Wed, 16 Oct 2024 18:37:34 +0200</pubDate>
-      <guid>http://localhost:1313/tags/movie/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Danny Boyle</title>
-      <link>http://localhost:1313/tags/danny-boyle/</link>
-      <pubDate>Mon, 14 Oct 2024 18:32:09 +0200</pubDate>
-      <guid>http://localhost:1313/tags/danny-boyle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ewan McGregor</title>
-      <link>http://localhost:1313/tags/ewan-mcgregor/</link>
-      <pubDate>Mon, 14 Oct 2024 18:32:09 +0200</pubDate>
-      <guid>http://localhost:1313/tags/ewan-mcgregor/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Book</title>
-      <link>http://localhost:1313/tags/book/</link>
-      <pubDate>Sun, 13 Oct 2024 14:30:09 +0200</pubDate>
-      <guid>http://localhost:1313/tags/book/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gabriel García Márquez</title>
-      <link>http://localhost:1313/tags/gabriel-garc%C3%ADa-m%C3%A1rquez/</link>
-      <pubDate>Sun, 13 Oct 2024 14:30:09 +0200</pubDate>
-      <guid>http://localhost:1313/tags/gabriel-garc%C3%ADa-m%C3%A1rquez/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Novel</title>
-      <link>http://localhost:1313/tags/novel/</link>
-      <pubDate>Sun, 13 Oct 2024 14:30:09 +0200</pubDate>
-      <guid>http://localhost:1313/tags/novel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Patrick Magee</title>
-      <link>http://localhost:1313/tags/patrick-magee/</link>
-      <pubDate>Sun, 13 Oct 2024 14:29:09 +0200</pubDate>
-      <guid>http://localhost:1313/tags/patrick-magee/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stanley Kubrick</title>
-      <link>http://localhost:1313/tags/stanley-kubrick/</link>
-      <pubDate>Sun, 13 Oct 2024 14:29:09 +0200</pubDate>
-      <guid>http://localhost:1313/tags/stanley-kubrick/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>F. Murray Abraham</title>
-      <link>http://localhost:1313/tags/f.-murray-abraham/</link>
+      <title>CLI</title>
+      <link>http://localhost:1313/tags/cli/</link>
       <pubDate>Sun, 13 Oct 2024 14:28:59 +0200</pubDate>
-      <guid>http://localhost:1313/tags/f.-murray-abraham/</guid>
+      <guid>http://localhost:1313/tags/cli/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tom Hulce</title>
-      <link>http://localhost:1313/tags/tom-hulce/</link>
+      <title>Rust</title>
+      <link>http://localhost:1313/tags/rust/</link>
       <pubDate>Sun, 13 Oct 2024 14:28:59 +0200</pubDate>
-      <guid>http://localhost:1313/tags/tom-hulce/</guid>
+      <guid>http://localhost:1313/tags/rust/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sally Rooney</title>
-      <link>http://localhost:1313/tags/sally-rooney/</link>
-      <pubDate>Thu, 03 Oct 2024 14:30:51 +0200</pubDate>
-      <guid>http://localhost:1313/tags/sally-rooney/</guid>
+      <title>Terminal User Interface</title>
+      <link>http://localhost:1313/tags/terminal-user-interface/</link>
+      <pubDate>Sun, 13 Oct 2024 14:28:59 +0200</pubDate>
+      <guid>http://localhost:1313/tags/terminal-user-interface/</guid>
       <description></description>
     </item>
     <item>
-      <title>Peak</title>
-      <link>http://localhost:1313/tags/peak/</link>
-      <pubDate>Mon, 30 Sep 2024 14:30:37 +0200</pubDate>
-      <guid>http://localhost:1313/tags/peak/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Susanna Clarke</title>
-      <link>http://localhost:1313/tags/susanna-clarke/</link>
-      <pubDate>Mon, 30 Sep 2024 14:30:37 +0200</pubDate>
-      <guid>http://localhost:1313/tags/susanna-clarke/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>George C. Scott</title>
-      <link>http://localhost:1313/tags/george-c.-scott/</link>
-      <pubDate>Mon, 23 Sep 2024 18:02:22 +0200</pubDate>
-      <guid>http://localhost:1313/tags/george-c.-scott/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Peter Sellers</title>
-      <link>http://localhost:1313/tags/peter-sellers/</link>
-      <pubDate>Mon, 23 Sep 2024 18:02:22 +0200</pubDate>
-      <guid>http://localhost:1313/tags/peter-sellers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kirk Douglas</title>
-      <link>http://localhost:1313/tags/kirk-douglas/</link>
-      <pubDate>Wed, 18 Sep 2024 22:54:40 +0200</pubDate>
-      <guid>http://localhost:1313/tags/kirk-douglas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Koji Yakusho</title>
-      <link>http://localhost:1313/tags/koji-yakusho/</link>
-      <pubDate>Wed, 18 Sep 2024 19:54:40 +0200</pubDate>
-      <guid>http://localhost:1313/tags/koji-yakusho/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wim Wenders</title>
-      <link>http://localhost:1313/tags/wim-wenders/</link>
-      <pubDate>Wed, 18 Sep 2024 19:54:40 +0200</pubDate>
-      <guid>http://localhost:1313/tags/wim-wenders/</guid>
+      <title>TODO</title>
+      <link>http://localhost:1313/tags/todo/</link>
+      <pubDate>Sun, 13 Oct 2024 14:28:59 +0200</pubDate>
+      <guid>http://localhost:1313/tags/todo/</guid>
       <description></description>
     </item>
   </channel>

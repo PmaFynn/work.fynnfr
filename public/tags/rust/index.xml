@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rust on Fynn</title>
+    <link>http://localhost:1313/tags/rust/</link>
+    <description>Recent content in Rust on Fynn</description>
+    <image>
+      <title>Fynn</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2024 14:28:59 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>td</title>
+      <link>http://localhost:1313/projects/td/</link>
+      <pubDate>Sun, 13 Oct 2024 14:28:59 +0200</pubDate>
+      <guid>http://localhost:1313/projects/td/</guid>
+      <description>&lt;h2 id=&#34;rust-todo-application-githubhttpsgithubcompmafynntd&#34;&gt;Rust todo Application: &lt;a href=&#34;https://github.com/pmafynn/td&#34;&gt;Github&lt;/a&gt;&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/projects/tdShowcase.gif&#34; alt=&#34;Showcase&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;A simple, fast, and efficient TUI todo application written in Rust with &lt;em&gt;vim bindings&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+&lt;h4 id=&#34;cli-features&#34;&gt;CLI Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Add new tasks &lt;strong&gt;FAST&lt;/strong&gt; (see usage below)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;tui-features---keybinds&#34;&gt;TUI Features - Keybinds&lt;/h4&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Action&lt;/th&gt;
+          &lt;th&gt;Keybind&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;quit application&lt;/td&gt;
+          &lt;td&gt;q, Esc&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;exit out of help&lt;/td&gt;
+          &lt;td&gt;Esc&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;down&lt;/td&gt;
+          &lt;td&gt;j&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;up&lt;/td&gt;
+          &lt;td&gt;k&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;toggle visible todos&lt;/td&gt;
+          &lt;td&gt;h, l, tab&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;goTop&lt;/td&gt;
+          &lt;td&gt;g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;completly delete a finished todo&lt;/td&gt;
+          &lt;td&gt;d&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;add new todo&lt;/td&gt;
+          &lt;td&gt;a&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;rename selected todo&lt;/td&gt;
+          &lt;td&gt;n&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;goBottom&lt;/td&gt;
+          &lt;td&gt;G&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;search for &lt;em&gt;input&lt;/em&gt; &amp;lt;- highlights all but selects only the last found&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;switch status of selected todo&lt;/td&gt;
+          &lt;td&gt;enter&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+&lt;h4 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensure you have &lt;a href=&#34;https://www.rust-lang.org/tools/install&#34;&gt;Rust&lt;/a&gt; installed on your machine.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;clone-the-repository&#34;&gt;Clone the repository&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone https://github.com/pmafynn/td.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; td
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;build-the-application&#34;&gt;Build the application&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cargo build --release
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;run-the-application&#34;&gt;Run the application&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;./target/release/td
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Create alias or add to path if you like it&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

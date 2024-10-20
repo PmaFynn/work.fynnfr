@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cv on Fynn</title>
+    <link>http://localhost:1313/tags/cv/</link>
+    <description>Recent content in Cv on Fynn</description>
+    <image>
+      <title>Fynn</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Oct 2024 23:47:41 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Wed, 16 Oct 2024 23:47:41 +0200</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+&lt;h3 id=&#34;working-student---quality-assurance&#34;&gt;Working Student - Quality Assurance&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;TOI TOI &amp;amp; DIXI Group GmbH&lt;/strong&gt; | Ratingen, Germany | 08/2024 - Present&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed and resolved Jira tickets from the point of quality assurance&lt;/li&gt;
+&lt;li&gt;Developed automated test scripts using Robot Framework integrated into our CI/CD pipeline to increase test coverage and efficiency&lt;/li&gt;
+&lt;li&gt;Collaborated with development teams to identify and resolve software defects promptly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Skills: Jira, SQL, Python, Robot Framework&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;working-student---web-development&#34;&gt;Working Student - Web Development&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;TOI TOI &amp;amp; DIXI Group GmbH&lt;/strong&gt; | Ratingen, Germany | 01/2024 - 07/2024&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

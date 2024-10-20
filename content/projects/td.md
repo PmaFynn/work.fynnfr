@@ -27,12 +27,6 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover: 
     image: "projects/tdScreen.png"
-# cover:
-#     image: "/home/fynn/projects/hugo/fynnfr/static/movies/dontLikeCover.png" # image path/url
-#     # alt: "<alt text>" # alt text
-#     # caption: "<text>" # display caption under cover
-#     # relative: false # when using page bundles set this to true
-#     hidden: false # only hide on current single page
 ---
 ## Rust todo Application: [Github](https://github.com/pmafynn/td)
 

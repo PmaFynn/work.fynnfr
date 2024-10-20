@@ -9,16 +9,34 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.136.0</generator>
+    <generator>Hugo -- 0.136.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2024 18:37:34 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 23:47:41 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Technical stuff I like/use</title>
-      <link>http://localhost:1313/misc/like/</link>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Wed, 16 Oct 2024 23:47:41 +0200</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+&lt;h3 id=&#34;working-student---quality-assurance&#34;&gt;Working Student - Quality Assurance&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;TOI TOI &amp;amp; DIXI Group GmbH&lt;/strong&gt; | Ratingen, Germany | 08/2024 - Present&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed and resolved Jira tickets from the point of quality assurance&lt;/li&gt;
+&lt;li&gt;Developed automated test scripts using Robot Framework integrated into our CI/CD pipeline to increase test coverage and efficiency&lt;/li&gt;
+&lt;li&gt;Collaborated with development teams to identify and resolve software defects promptly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Skills: Jira, SQL, Python, Robot Framework&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;working-student---web-development&#34;&gt;Working Student - Web Development&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;TOI TOI &amp;amp; DIXI Group GmbH&lt;/strong&gt; | Ratingen, Germany | 01/2024 - 07/2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/info/</link>
       <pubDate>Thu, 19 Sep 2024 14:29:39 +0200</pubDate>
-      <guid>http://localhost:1313/misc/like/</guid>
-      <description>&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+      <guid>http://localhost:1313/info/</guid>
+      <description>&lt;p&gt;lorem ipsum&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
 &lt;p&gt;Software I use and recommend.&lt;/p&gt;
 &lt;h3 id=&#34;operating-system&#34;&gt;Operating System&lt;/h3&gt;
 &lt;p&gt;GNU/Linux with &lt;a href=&#34;https://archlinux.org/&#34;&gt;Arch Linux&lt;/a&gt;&lt;/p&gt;
@@ -48,152 +66,142 @@
 &lt;h3 id=&#34;rss-reader&#34;&gt;RSS reader&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://newsboat.org/&#34;&gt;Newsboat&lt;/a&gt;; &lt;a href=&#34;https://netnewswire.com/&#34;&gt;NetNewsWire&lt;/a&gt; for iPhone&lt;/p&gt;
 &lt;h3 id=&#34;document-viewer&#34;&gt;Document viewer&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://pwmt.org/projects/zathura/&#34;&gt;Zathura&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;media-player&#34;&gt;Media player&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://mpv.io/&#34;&gt;mpv&lt;/a&gt;; &lt;a href=&#34;https://www.videolan.org/vlc/download-ios.html&#34;&gt;VLC&lt;/a&gt; for iPhone&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://pwmt.org/projects/zathura/&#34;&gt;Zathura&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/infoold/like/</link>
+      <pubDate>Thu, 19 Sep 2024 14:29:39 +0200</pubDate>
+      <guid>http://localhost:1313/infoold/like/</guid>
+      <description>&lt;p&gt;lorem ipsum&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;p&gt;Software I use and recommend.&lt;/p&gt;
+&lt;h3 id=&#34;operating-system&#34;&gt;Operating System&lt;/h3&gt;
+&lt;p&gt;GNU/Linux with &lt;a href=&#34;https://archlinux.org/&#34;&gt;Arch Linux&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;shell&#34;&gt;Shell&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://zsh.sourceforge.io/&#34;&gt;Zsh&lt;/a&gt; with &lt;a href=&#34;https://github.com/ohmyzsh/ohmyzsh&#34;&gt;&lt;em&gt;oh my zsh&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;terminal&#34;&gt;Terminal&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://alacritty.org/&#34;&gt;Alacritty&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;web-browser&#34;&gt;Web Browser&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;config&#34;&gt;Config&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/yokoffing/BetterFox&#34;&gt;BetterFox&lt;/a&gt; user.js&lt;/p&gt;
+&lt;h4 id=&#34;search-engine&#34;&gt;Search engine&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;browser-extensions&#34;&gt;Browser extensions&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/&#34;&gt;&lt;strong&gt;uBlock origin&lt;/strong&gt;&lt;/a&gt; (not using this is  just dumb)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/&#34;&gt;I still don&amp;rsquo;t care about cookies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/&#34;&gt;Decentraleyes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/&#34;&gt;SponsorBlock for Youtube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;text-editor&#34;&gt;Text Editor&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://neovim.io/&#34;&gt;Neovim&lt;/a&gt; with a fork of &lt;a href=&#34;https://github.com/PmaFynn/kickstart-mod.nvim&#34;&gt;&lt;em&gt;kickstart&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;window-manager&#34;&gt;Window manager&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;file-manager&#34;&gt;File manager&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/sxyazi/yazi&#34;&gt;Yazi&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;rss-reader&#34;&gt;RSS reader&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://newsboat.org/&#34;&gt;Newsboat&lt;/a&gt;; &lt;a href=&#34;https://netnewswire.com/&#34;&gt;NetNewsWire&lt;/a&gt; for iPhone&lt;/p&gt;
+&lt;h3 id=&#34;document-viewer&#34;&gt;Document viewer&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://pwmt.org/projects/zathura/&#34;&gt;Zathura&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Technical stuff I do not like</title>
-      <link>http://localhost:1313/misc/nolike/</link>
+      <link>http://localhost:1313/infoold/nolike/</link>
       <pubDate>Thu, 19 Sep 2024 14:29:39 +0200</pubDate>
-      <guid>http://localhost:1313/misc/nolike/</guid>
+      <guid>http://localhost:1313/infoold/nolike/</guid>
       <description>obviously no exhaustive list</description>
     </item>
     <item>
-      <title>Quotes I encountered and liked</title>
-      <link>http://localhost:1313/misc/quotes/</link>
-      <pubDate>Sat, 21 Sep 2024 10:20:05 +0200</pubDate>
-      <guid>http://localhost:1313/misc/quotes/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;top&#34;&gt;Top&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Der Begriff des Fortschritts ist in der Idee der Katastrophe zu fundieren. Daß es »so weiter« geht, ist die Katastrophe. Sie ist nicht das jeweils Bevorstehende sondern das jeweils Gegebene. Strindbergs Gedanke: die Hölle ist nichts, was uns bevorstünde&amp;ndash;sondern dieses Leben hier.&amp;rdquo;, &lt;em&gt;Walter Benjamin, Das Passagen-Werk&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;It was the day of my death&amp;ndash;I wish it was the day of my death.&amp;rdquo;, &lt;em&gt;James Baldwin, Giovanni&amp;rsquo;s Room&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OneFlewOverTheCuckoosNest</title>
-      <link>http://localhost:1313/media/oneflewoverthecuckoosnest/</link>
-      <pubDate>Wed, 16 Oct 2024 18:37:34 +0200</pubDate>
-      <guid>http://localhost:1313/media/oneflewoverthecuckoosnest/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;I feel big as a damn mountain.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.imdb.com/title/tt0073486&#34;&gt;IMDb&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trainspotting</title>
-      <link>http://localhost:1313/media/trainspotting/</link>
-      <pubDate>Mon, 14 Oct 2024 18:32:09 +0200</pubDate>
-      <guid>http://localhost:1313/media/trainspotting/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;We took morphine, diamorphine, cyclizine, codeine, temazepam, nitrazepam, phenobarbitone, sodium amytal, dextropropoxyphene, methadone, nalbuphine, pethidine, pentazocine, buprenorphine, dextromoramide, chlormethiazole. The streets are awash with drugs you can have for unhappiness and pain, and we took them all. Fuck it, we would have injected vitamin C if only they&amp;rsquo;d made it illegal.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.imdb.com/title/tt0117951/&#34;&gt;IMDb&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Love in the Time of Cholera</title>
-      <link>http://localhost:1313/media/loveinthetimeofcholera/</link>
-      <pubDate>Sun, 13 Oct 2024 14:30:09 +0200</pubDate>
-      <guid>http://localhost:1313/media/loveinthetimeofcholera/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Tell him yes. Even if you are dying of fear, even if you are sorry later, because whatever you do, you will be sorry all the rest of your life if you say no.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera&#34;&gt;wikipedia entry&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Barry Lyndon</title>
-      <link>http://localhost:1313/media/barrylyndon/</link>
-      <pubDate>Sun, 13 Oct 2024 14:29:09 +0200</pubDate>
-      <guid>http://localhost:1313/media/barrylyndon/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;I&amp;rsquo;m a man who would rather be known as a cuckold than a fool.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.imdb.com/title/tt0072684/&#34;&gt;IMDb&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amadeus</title>
-      <link>http://localhost:1313/media/amadeus/</link>
+      <title>td</title>
+      <link>http://localhost:1313/projects/td/</link>
       <pubDate>Sun, 13 Oct 2024 14:28:59 +0200</pubDate>
-      <guid>http://localhost:1313/media/amadeus/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;The only thing that worried me was the actual killing. How does one do that? Hmmm? How does one kill a man? It&amp;rsquo;s one thing to dream about it; very different when, when you, when you have to do it with your own hands.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.imdb.com/title/tt0086879&#34;&gt;IMDb&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Intermezzo</title>
-      <link>http://localhost:1313/media/intermezzo/</link>
-      <pubDate>Thu, 03 Oct 2024 14:30:51 +0200</pubDate>
-      <guid>http://localhost:1313/media/intermezzo/</guid>
-      <description>&lt;p&gt;dublin author, takes place in dublin, read in dublin&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://newleftreview.org/sidecar/posts/like-a-prayer&#34;&gt;good review&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Zwischenzug&#34;&gt;chess move known as intermezzo&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jonathan Strange &amp; Mr Norrel</title>
-      <link>http://localhost:1313/media/jonathanstrangeandmrnorrel/</link>
-      <pubDate>Mon, 30 Sep 2024 14:30:37 +0200</pubDate>
-      <guid>http://localhost:1313/media/jonathanstrangeandmrnorrel/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;And how shall I think of you?&amp;rsquo; He considered a moment and then laughed. &amp;lsquo;Think of me with my nose in a book!&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;And how shall I think of you?&amp;rsquo; He considered a moment and then laughed. &amp;lsquo;Think of me with my nose in a book!&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>Dr Strangelove</title>
-      <link>http://localhost:1313/media/drstrangelove/</link>
-      <pubDate>Mon, 23 Sep 2024 18:02:22 +0200</pubDate>
-      <guid>http://localhost:1313/media/drstrangelove/</guid>
-      <description>&lt;p&gt;Quite enjoyable. Is this movie the origin of the classic cliche of the over the top evil (nazi) german scientist?&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.imdb.com/title/tt0057012/&#34;&gt;IMDb&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Paths Of Glory</title>
-      <link>http://localhost:1313/media/pathsofglory/</link>
-      <pubDate>Wed, 18 Sep 2024 22:54:40 +0200</pubDate>
-      <guid>http://localhost:1313/media/pathsofglory/</guid>
-      <description>&lt;p&gt;Good anti-war movie&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.imdb.com/title/tt0050825/&#34;&gt;IMDb&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Perfect Days</title>
-      <link>http://localhost:1313/media/perfectdays/</link>
-      <pubDate>Wed, 18 Sep 2024 19:54:40 +0200</pubDate>
-      <guid>http://localhost:1313/media/perfectdays/</guid>
-      <description>&lt;p&gt;peak movie&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.imdb.com/title/tt27503384/&#34;&gt;IMDb&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Personal (Physical) Library</title>
-      <link>http://localhost:1313/library/</link>
-      <pubDate>Wed, 18 Sep 2024 19:38:10 +0200</pubDate>
-      <guid>http://localhost:1313/library/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;This is a list of the books in my personal library. If you want to borrow a book feel free to &lt;a href=&#34;mailto:fynn@fynnfr.org&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;favourites-not-ordered&#34;&gt;Favourites (not ordered)&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Walter Rodney - &lt;em&gt;How Europe Underdeveloped Africa&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Chinua Achebe - &lt;em&gt;Things Fall Apart&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Alexandre Dumas - &lt;em&gt;The Count of Monte Cristo&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Jorge Luis Borges - &lt;em&gt;Ficciones&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Paulo Freire - &lt;em&gt;Pedagogy of the Oppressed&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Mary Shelley - &lt;em&gt;Frankenstein; or, The Modern Prometheus&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Stefan Zweig - &lt;em&gt;Sternstunden der Menschheit&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Donna Tart - &lt;em&gt;The Goldfinch&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Marcel Proust - &lt;em&gt;Swann&amp;rsquo;s Way&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/docs/test/</link>
-      <pubDate>Wed, 18 Sep 2024 16:40:22 +0200</pubDate>
-      <guid>http://localhost:1313/docs/test/</guid>
-      <description>&lt;h3 id=&#34;this-is-a-test-page&#34;&gt;This is a test page..&lt;/h3&gt;
-&lt;p&gt;this ia a test page&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/td/</guid>
+      <description>&lt;h2 id=&#34;rust-todo-application-githubhttpsgithubcompmafynntd&#34;&gt;Rust todo Application: &lt;a href=&#34;https://github.com/pmafynn/td&#34;&gt;Github&lt;/a&gt;&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/projects/tdShowcase.gif&#34; alt=&#34;Showcase&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;A simple, fast, and efficient TUI todo application written in Rust with &lt;em&gt;vim bindings&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+&lt;h4 id=&#34;cli-features&#34;&gt;CLI Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Add new tasks &lt;strong&gt;FAST&lt;/strong&gt; (see usage below)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;tui-features---keybinds&#34;&gt;TUI Features - Keybinds&lt;/h4&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Action&lt;/th&gt;
+          &lt;th&gt;Keybind&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;quit application&lt;/td&gt;
+          &lt;td&gt;q, Esc&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;exit out of help&lt;/td&gt;
+          &lt;td&gt;Esc&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;down&lt;/td&gt;
+          &lt;td&gt;j&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;up&lt;/td&gt;
+          &lt;td&gt;k&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;toggle visible todos&lt;/td&gt;
+          &lt;td&gt;h, l, tab&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;goTop&lt;/td&gt;
+          &lt;td&gt;g&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;completly delete a finished todo&lt;/td&gt;
+          &lt;td&gt;d&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;add new todo&lt;/td&gt;
+          &lt;td&gt;a&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;rename selected todo&lt;/td&gt;
+          &lt;td&gt;n&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;goBottom&lt;/td&gt;
+          &lt;td&gt;G&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;search for &lt;em&gt;input&lt;/em&gt; &amp;lt;- highlights all but selects only the last found&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;switch status of selected todo&lt;/td&gt;
+          &lt;td&gt;enter&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+&lt;h4 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensure you have &lt;a href=&#34;https://www.rust-lang.org/tools/install&#34;&gt;Rust&lt;/a&gt; installed on your machine.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;clone-the-repository&#34;&gt;Clone the repository&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone https://github.com/pmafynn/td.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; td
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;build-the-application&#34;&gt;Build the application&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cargo build --release
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;run-the-application&#34;&gt;Run the application&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;./target/release/td
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Create alias or add to path if you like it&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
