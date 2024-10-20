@@ -123,7 +123,7 @@ menu:
     - identifier: cv
       name: cv
       url: /cv/
-      weight: 36
+      weight: 34
     # - identifier: search
     #   name: Search
     #   url: /search
