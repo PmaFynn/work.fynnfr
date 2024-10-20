@@ -62,7 +62,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Fynn's slightly more professional webpage
-    subtitle: "idk yet, maybe some kind of portfolio. Work in progress tho \n do line breaks work here?"
+    subtitle: "Work in progress"
     imageUrl: "home/meButNice.png"
     imageWidth: 220
     imageHeight: 220
