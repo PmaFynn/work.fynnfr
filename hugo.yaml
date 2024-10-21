@@ -122,9 +122,9 @@ menu:
       name: About me
       url: /info/
       weight: 35
-    - identifier: cv
+    - identifier: CV
       name: CV
-      url: /cv/
+      url: /CV/
       weight: 34
     # - identifier: search
     #   name: Search
